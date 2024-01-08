@@ -1,5 +1,6 @@
 body{
     font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .banner{
@@ -10,14 +11,12 @@ body{
     background-image: url(../images/Banner\ Image.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
-   
+    background-position: center;   
 }
 
-
-.banner, .taxt-primary{
-    display: block;
+.header-taxt{
+    padding-top: 227px;
     text-align: center;
-    color: aliceblue;
-       
+    color: #FFF;
 }
+
