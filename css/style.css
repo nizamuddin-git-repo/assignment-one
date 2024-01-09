@@ -149,3 +149,18 @@ body{
     margin-right: 20px;
 }
 
+.Holidays-taxt{
+    text-align: center;
+}
+
+.Holidays{
+    color: #070211;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.section-five{
+    background-image: url(../images/rectangle\ 1.png), url(../images/rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom center, top right;
+}
