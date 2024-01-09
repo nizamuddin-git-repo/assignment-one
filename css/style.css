@@ -105,15 +105,42 @@ body{
     margin: 0 auto;
     max-width: 1600px;
     width: 80%;
-    height: 7335px;
-    
-   
+    height: 7335px;   
 }
 
 .continer{
     display: flex;
     align-items: center
-    
-    
+}
+
+.taxt-rad{
+    color: #F00;
+}
+.taxt-size{
+    font-size: 48px;
+    font-weight: 500;
+}
+
+.paragrf{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.continer-section > .img-section{
+    border: 17px solid #F00;
+    border-radius: 460px;
+    padding: 26px;
+}
+
+.section-title > .taxt-rad{
+    padding-top: 50px;
+    font-size: 48px;
+    font-weight: 700;
+}
+.section-title > .paragrf{
+    color: rgba(7, 2, 17, 0.60);
+    margin-bottom: 48px;
 
 }
+
