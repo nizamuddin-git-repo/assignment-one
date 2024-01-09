@@ -102,15 +102,15 @@ body{
 }
 
 .section-four{
-    margin: 0 auto;
-    max-width: 1600px;
-    width: 80%;
-    height: 7335px;   
+    max-width: 1400px;
+    width: 70%;
+    height: 635px;
+    margin: 130px auto;   
 }
 
 .continer{
     display: flex;
-    align-items: center
+    align-items: center;
 }
 
 .taxt-rad{
@@ -131,9 +131,11 @@ body{
     border: 17px solid #F00;
     border-radius: 460px;
     padding: 26px;
+    margin-left: 30px;
 }
 
 .section-title > .taxt-rad{
+    margin-right: 20px;
     padding-top: 50px;
     font-size: 48px;
     font-weight: 700;
@@ -141,6 +143,9 @@ body{
 .section-title > .paragrf{
     color: rgba(7, 2, 17, 0.60);
     margin-bottom: 48px;
+}
 
+.continer-description{
+    margin-right: 20px;
 }
 
